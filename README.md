@@ -16,7 +16,7 @@ Write a program to display prime numbers between 2 intervals without using any i
 
 Working:
 The program creats a function that takes the interval as arguments.In the function,numbers is checked whether the number is divisible using 2 loops.
-If the number is divisible, a counter is incrimented. if the counter is more than 2, the number is not considered as prime number.
+If the number is divisible, a counter is incrimented. If the counter is more than 1, the number is not considered as prime number.
 Then the prime numbers are printed.
 
 3.Find the missing number
