@@ -1,4 +1,4 @@
-# Headspin
+# HeadSpin
 1.Add element to an array
 
 Question:
